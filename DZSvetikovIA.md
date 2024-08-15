@@ -31,6 +31,7 @@
 скрин настроек
 
 ![img1](https://github.com/igoryanich94/dzDevOps_Netology/blob/main/img/img.png)
+![img2](https://github.com/igoryanich94/dzDevOps_Netology/blob/main/img/img2.png)
 
 
 
