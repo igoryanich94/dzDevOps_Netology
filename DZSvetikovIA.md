@@ -29,7 +29,7 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 скрин настроек
-
+![img1](https://github.com/igoryanich94/dzDevOps_Netology/blob/main/img/img1.png)
 результат
 ```
 Started by user admin
